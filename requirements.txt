@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+pytesseract
+pdf2image
+supabase
+psycopg2-binary
+python-dotenv
+tiktoken
